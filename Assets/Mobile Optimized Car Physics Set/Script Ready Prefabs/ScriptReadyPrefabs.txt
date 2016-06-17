@@ -1,0 +1,19 @@
+These are cars that have their fundamentals set up for you. (Pivot, scale, etc.).
+They are yours to attach your own script to, or, if you're
+a real beginner, I've provided a free car script and prefabs of the cars i made
+myself that's mobile compatible.
+There is also a car control rig you can drag into your scene if you want to make 
+your game for mobile.
+It's not as good as some free scripts out there,but it's pretty good.(what do you expect from a 13 year old :P)
+if you know how to, you can edit the coding to your liking. You
+can contact me if you found out a way to make the code better!
+Also, please contact me to report any bugs, or just some suggestions.
+Your critisism can help make me a better developer!
+
+	| contact below 
+	V			    
+	
+	Again, thanks for downloading this asset, and have fun!
+	
+email: melvinjames885@gmail.com
+	
